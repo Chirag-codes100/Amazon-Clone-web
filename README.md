@@ -1,1 +1,2 @@
+<<<<<<< HEAD
 # Amazon-Clone
